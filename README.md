@@ -19,16 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
