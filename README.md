@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
 ## Array
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -43,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
