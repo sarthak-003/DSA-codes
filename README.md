@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
