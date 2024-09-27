@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
+| [1250-longest-common-subsequence](https://github.com/sarthak-003/DSA-codes/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1250-longest-common-subsequence](https://github.com/sarthak-003/DSA-codes/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
