@@ -2,25 +2,34 @@ class Solution {
     public int longestCommonSubsequence(String str1, String str2) {
         int[][] dp = new int[str1.length()][str2.length()];
         for(int[] ele : dp) Arrays.fill(ele, -1);
-        return Memoization(str1.length()-1,str2.length()-1,str1,str2,dp);
+        return tabulation(str1,str2,dp);
     }
-    static int Memoization(int s1,int s2,String str1,String str2,int[][] dp){
-        if(s1<0 || s2<0) return 0;
-        if(s1==0 && s2==0){
-            if(str1.charAt(s1) == str2.charAt(s2)) return 1;
-            return  0;
+    static int tabulation(String str1,String str2,int[][] dp){
+        for (int i = 0; i < str1.length(); i++) {
+            for (int j = 0; j < str2.length(); j++) {
+                char a = str1.charAt(i);
+                char b = str2.charAt(j);
+                if(i>0 && j>0){
+                    if(a == b){
+                        dp[i][j] = dp[i-1][j-1] + 1;
+                    }
+                    else{
+                        dp[i][j] = Integer.max(dp[i-1][j],dp[i][j-1]);
+                    }
+                } else if (i>0) {
+                    if(a==b) dp[i][j] = 1;
+                    else dp[i][j] = dp[i-1][j];
+                } else if (j>0) {
+                    if(a==b) dp[i][j] = 1;
+                    else dp[i][j] = dp[i][j-1];
+                }
+                else {
+                    if(a==b) dp[i][j] = 1;
+                    else dp[i][j] = 0;
+                }
+            }
         }
+        return dp[str1.length()-1][str2.length()-1];
+    }
 
-        if(dp[s1][s2] != -1) return dp[s1][s2];
-        char a = str1.charAt(s1);
-        char b = str2.charAt(s2);
-        int match=0,notMatch = 0;
-        if(a==b){
-            match = 1 + Memoization(s1-1,s2-1,str1,str2,dp);
-        }
-        else{
-            notMatch = Integer.max(Memoization(s1-1,s2,str1,str2,dp),Memoization(s1,s2-1,str1,str2,dp));
-        }
-        return dp[s1][s2] = match + notMatch;
-    }
 }
