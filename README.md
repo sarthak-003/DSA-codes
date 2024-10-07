@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sarthak-003/DSA-codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
