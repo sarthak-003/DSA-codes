@@ -79,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
