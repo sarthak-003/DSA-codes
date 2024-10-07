@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 ## Matrix
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/sarthak-003/DSA-codes/tree/master/0461-hamming-distance) |
