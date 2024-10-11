@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-003/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sarthak-003/DSA-codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-003/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sarthak-003/DSA-codes/tree/master/0516-longest-palindromic-subsequence) |
