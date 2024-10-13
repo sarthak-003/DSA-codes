@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+| [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
