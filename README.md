@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
