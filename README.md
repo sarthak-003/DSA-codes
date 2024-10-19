@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sarthak-003/DSA-codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 ## Matrix
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sarthak-003/DSA-codes/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sarthak-003/DSA-codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthak-003/DSA-codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0137-single-number-ii) |
