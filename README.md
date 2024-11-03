@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
