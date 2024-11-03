@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0112-path-sum) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Math
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
