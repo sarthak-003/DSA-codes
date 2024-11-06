@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Math
 |  |
@@ -166,4 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
