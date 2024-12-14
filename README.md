@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sarthak-003/DSA-codes/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/sarthak-003/DSA-codes/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sarthak-003/DSA-codes/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/sarthak-003/DSA-codes/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
