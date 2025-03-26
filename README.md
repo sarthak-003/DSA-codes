@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthak-003/DSA-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/sarthak-003/DSA-codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sarthak-003/DSA-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthak-003/DSA-codes/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0191-number-of-1-bits) |
 ## Enumeration
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
