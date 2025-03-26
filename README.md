@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthak-003/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sarthak-003/DSA-codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarthak-003/DSA-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthak-003/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthak-003/DSA-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthak-003/DSA-codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthak-003/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0191-number-of-1-bits) |
