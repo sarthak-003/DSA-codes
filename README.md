@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0518-coin-change-ii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sarthak-003/DSA-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sarthak-003/DSA-codes/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sarthak-003/DSA-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search Tree
 |  |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sarthak-003/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sarthak-003/DSA-codes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
