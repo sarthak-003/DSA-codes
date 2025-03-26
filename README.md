@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sarthak-003/DSA-codes/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sarthak-003/DSA-codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/sarthak-003/DSA-codes/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/sarthak-003/DSA-codes/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sarthak-003/DSA-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/sarthak-003/DSA-codes/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sarthak-003/DSA-codes/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -191,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
