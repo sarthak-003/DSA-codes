@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthak-003/DSA-codes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sarthak-003/DSA-codes/tree/master/0542-01-matrix) |
+| [1046-max-consecutive-ones-iii](https://github.com/sarthak-003/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sarthak-003/DSA-codes/tree/master/1073-number-of-enclaves) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthak-003/DSA-codes/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sarthak-003/DSA-codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthak-003/DSA-codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/sarthak-003/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sarthak-003/DSA-codes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sarthak-003/DSA-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthak-003/DSA-codes/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sarthak-003/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sarthak-003/DSA-codes/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
